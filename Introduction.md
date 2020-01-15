@@ -31,7 +31,7 @@
     
     - `git commit` uses the `-m` flag. m for message
     
-    - `git config --global user.email "kervintznoel@outlook.com"
+    - `git config --global user.email "example@email.com"
     
     - `git config --global user.name "Kervintz Noel"
     
