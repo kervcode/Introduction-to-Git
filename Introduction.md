@@ -77,7 +77,20 @@
 
 ### Pulling changes
 
-- `git pull` or `git pull origin`
+- `git pull` or `git pull origin` get changes made by others
+
+- `git branch` to get the current branch name
+
+- `git pull repoName master` this is an example of pulling a repo in the master branch.
+
+### Pushing Commits to gitHub
+
+- `git remote add origin URL` To push to 
+
+- `git push` pushes changes to a remote repository
+  #### Arguments
+   - `git push -u origin master` u stands for upstream
+      
 
 
 
